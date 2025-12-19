@@ -110,14 +110,14 @@
 ## 📸 Captures d'écran
 
 ### Interface de Configuaration et Topologies 
-| Vue d'ensemble | Éditeur de topologie |
+| Configuration | Éditeur de topologie |
 |----------------|----------------------|
 | ![Interface principale](videos_images/Configuration.png) | ![Éditeur topologie](videos_images/Topologies.png) |
 
 ### Visualisation
-| Layout circulaire | Layout hiérarchique |
+| Visualisation dans Automate tool | Visualisation dans CML  |
 |-------------------|---------------------|
-| ![Layout circulaire](screenshots/circular-layout.png) | ![Layout hiérarchique](screenshots/hierarchical-layout.png) |
+| ![Layout circulaire](videos_images/Visualisation.png) | ![Layout hiérarchique](videos_images/CML.png) |
 
 ### Configuration et tests
 | Éditeur de configuration | Résultats de tests |
