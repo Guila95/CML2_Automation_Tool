@@ -120,9 +120,9 @@
 | ![Layout circulaire](videos_images/Visualisation.png) | ![Layout hiérarchique](videos_images/CML.png) |
 
 ### Configuration et tests
-| Éditeur de configuration | Résultats de tests |
+| Parametres | Résultats de tests |
 |--------------------------|-------------------|
-| ![Éditeur config](screenshots/config-editor.png) | ![Tests résultats](screenshots/test-results.png) |
+| ![Éditeur config](videos_images/Parametres.png) | ![Tests résultats](videos_images/Test.png) |
 
 ### Galerie complète
 📷 **[Voir toutes les captures d'écran](screenshots/)** - Dossier complet des screenshots
