@@ -110,15 +110,104 @@
 
 **Interface Principale :**
 
-┌─────────────────────────────────────────────────────────────┐
-│ CML2 Automation Tool - Édition Avancée │
-├──────────────┬──────────────────────────────────────────────┤
-│ 📊 Topologie│ • Création visuelle des topologies │
-│ 🎨 Visual │ • Vue graphique interactive │
-│ ⚙️ Config │ • Configuration des équipements │
-│ 🔬 Test │ • Tests et validation │
-│ ⚡ Paramètres│ • Configuration CML2 │
-└──────────────┴──────────────────────────────────────────────┘
+
+
+---
+
+## ⚡ Installation Rapide
+
+### Prérequis Minimum
+- **Python 3.8+**
+- **Contrôleur CML2 accessible**
+- **2 Go de RAM minimum**
+- **Connexion Internet** (pour télécharger les dépendances)
+
+### Installation en 3 étapes
+
+```bash
+# 1. Cloner le repository
+git clone https://github.com/votre-username/cml2-automation-tool.git
+cd cml2-automation-tool
+
+# 2. Installer les dépendances
+pip install -r requirements.txt
+
+# 3. Lancer l'application
+python main.py
+
+```
+# Installation Détailée
+# Option 1 : Installation avec venv (Recommandée)
+
+# Créer un environnement virtuel
+```python -m venv cml-env```
+
+# Activer l'environnement
+# Windows :
+cml-env\Scripts\activate
+# Linux/Mac :
+```source cml-env/bin/activate``
+
+# Installer les dépendances
+```
+pip install --upgrade pip
+pip install -r requirements.txt
+
+```
+
+# Option 2 : Installation avec conda
+
+# Créer un environnement conda
+```conda create -n cml-tool python=3.9
+conda activate cml-tool
+```
+# Installer les dépendances
+```
+pip install -r requirements.txt
+
+```
+# Option 3 : Installation manuelle
+
+# Installer chaque dépendance individuellement
+```
+pip install tkinter
+pip install netmiko==4.1.2
+pip install virl2_client==2.5.0
+pip install requests
+```
+# Vérification de l'installation
+# Testez que tout fonctionne
+```
+python -c "
+import tkinter
+import netmiko
+import virl2_client
+print('✅ Toutes les dépendances sont installées !')
+"
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
