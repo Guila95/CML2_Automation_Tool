@@ -17,6 +17,8 @@
 
 - [🌟 Vue d'ensemble](#-vue-densemble)
 - [✨ Fonctionnalités](#-fonctionnalités)
+- [🎬 Démonstration Vidéo](#-démonstration-vidéo)
+- [📸 Captures d'écran](#-captures-décran)
 - [⚡ Installation Rapide](#-installation-rapide)
 - [🔧 Installation Détailée](#-installation-détaillée)
 - [🎮 Guide d'Utilisation](#-guide-dutilisation)
@@ -87,6 +89,46 @@
 
 ---
 
+## 🎬 Démonstration Vidéo
+
+### Vidéo de présentation
+[![Vidéo de démonstration](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+*Cliquez sur l'image pour regarder la démonstration complète (10 minutes)*
+
+### Tutoriels rapides
+1. **[Installation et configuration](https://www.youtube.com/watch?v=VIDEO_ID_1)** - 5 min
+2. **[Création d'une topologie](https://www.youtube.com/watch?v=VIDEO_ID_2)** - 8 min
+3. **[Configuration avancée](https://www.youtube.com/watch.youtube.com/watch?v=VIDEO_ID_3)** - 12 min
+4. **[Tests et validation](https://www.youtube.com/watch?v=VIDEO_ID_4)** - 7 min
+
+### Playlist complète
+📺 **[Playlist YouTube complète](https://www.youtube.com/playlist?list=VOTRE_LIST_ID)** - Toutes les vidéos tutoriels
+
+---
+
+## 📸 Captures d'écran
+
+### Interface de Configuaration et Topologies 
+| Vue d'ensemble | Éditeur de topologie |
+|----------------|----------------------|
+| ![Interface principale](videos_images/Configuration.png) | ![Éditeur topologie](videos_images/Topologies.png) |
+
+### Visualisation
+| Layout circulaire | Layout hiérarchique |
+|-------------------|---------------------|
+| ![Layout circulaire](screenshots/circular-layout.png) | ![Layout hiérarchique](screenshots/hierarchical-layout.png) |
+
+### Configuration et tests
+| Éditeur de configuration | Résultats de tests |
+|--------------------------|-------------------|
+| ![Éditeur config](screenshots/config-editor.png) | ![Tests résultats](screenshots/test-results.png) |
+
+### Galerie complète
+📷 **[Voir toutes les captures d'écran](screenshots/)** - Dossier complet des screenshots
+
+---
+
 ## ⚡ Installation Rapide
 
 ### Prérequis
@@ -104,4 +146,4 @@ cd cml2-automation-tool
 pip install -r requirements.txt
 
 # 3. Lancer l'application
-python main.py
+Automatisation_avec_interface_graphique.py
