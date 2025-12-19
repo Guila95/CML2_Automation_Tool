@@ -124,8 +124,14 @@
 |--------------------------|-------------------|
 | ![Éditeur config](videos_images/Parametres.png) | ![Tests résultats](videos_images/Test.png) |
 
+### Video
+| Vedeo Demo |
+|--------------------------|
+| ![Éditeur config](videos_images/video.mp4) |
+
+
 ### Galerie complète
-📷 **[Voir toutes les captures d'écran](screenshots/)** - Dossier complet des screenshots
+📷 **[Voir toutes les captures d'écran](videos_images/)** - Dossier complet des screenshots
 
 ---
 
