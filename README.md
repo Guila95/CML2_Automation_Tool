@@ -90,7 +90,7 @@
 ---
 # ⚠️ Action Requise pour la connexion a la base de donnees 
 | Installez obligatoiremnt le VPN  | Lancer le laboratoire depuis le Cloud | copiez les donnees de connexion du VPN depuis le Cloud  |
-|--------------------------|-------------------|
+|--------------------------|-------------------|-------------------|
 | ![Éditeur config](/videos_images/ciscovpn.png) | ![Tests résultats](/videos_images/lancementcml.png) |![Éditeur config](/videos_images/donneesdeconnexion.png) |
 
 ---
