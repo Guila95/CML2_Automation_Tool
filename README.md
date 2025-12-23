@@ -88,25 +88,12 @@
 - Support des images CML2 officielles
 
 ---
-
-## 🎬 Démonstration Vidéo
-
-### Vidéo de présentation
-[![Vidéo de démonstration](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-*Cliquez sur l'image pour regarder la démonstration complète (10 minutes)*
-
-### Tutoriels rapides
-1. **[Installation et configuration](https://www.youtube.com/watch?v=VIDEO_ID_1)** - 5 min
-2. **[Création d'une topologie](https://www.youtube.com/watch?v=VIDEO_ID_2)** - 8 min
-3. **[Configuration avancée](https://www.youtube.com/watch.youtube.com/watch?v=VIDEO_ID_3)** - 12 min
-4. **[Tests et validation](https://www.youtube.com/watch?v=VIDEO_ID_4)** - 7 min
-
-### Playlist complète
-📺 **[Playlist YouTube complète](https://www.youtube.com/playlist?list=VOTRE_LIST_ID)** - Toutes les vidéos tutoriels
+# ⚠️ Action Requise pour la connexion a la base de donnees 
+| Installez  le VPN  | Lancer le laboratoire depuis le Cloud | copiez les donnees de connexion du VPN depuis le Cloud  |
+|--------------------------|-------------------|-------------------|
+| ![Éditeur config](/videos_images/ciscovpn.png) | ![Tests résultats](/videos_images/lancementcml.png) |![Éditeur config](/videos_images/donneesdeconnexion.png) |
 
 ---
-
 ## 📸 Captures d'écran
 
 ### Interface de Configuaration et Topologies 
@@ -123,12 +110,6 @@
 | Parametres | Résultats de tests |
 |--------------------------|-------------------|
 | ![Éditeur config](videos_images/Parametres.png) | ![Tests résultats](videos_images/Test.png) |
-
-### Video
-| Vedeo Demo |
-|--------------------------|
-| ![Éditeur config](videos_images/video.mp4) |
-
 
 ### Galerie complète
 📷 **[Voir toutes les captures d'écran](videos_images/)** - Dossier complet des screenshots
